@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "0.29.0",
-  "apkUrl": "https://github.com/Daboor-14/salesflow/releases/download/v0.29.0/salesflow-0.29.0.apk",
-  "notes": "SalesFlow 0.29.0: طابعات كل عميل، شهري (التارجت والعمولة)، العروض اللي محتاجة متابعة، أصناف العرض بالصوت، أسعار المنافسين، تصوير الكارت الشخصي، تنبيه الوصول، وتحسين زرار البحث."
+  "versionCode": 50,
+  "versionName": "0.29.1",
+  "apkUrl": "https://github.com/Daboor-14/salesflow/releases/download/v0.29.1/salesflow-0.29.1.apk",
+  "notes": "SalesFlow 0.29.1: أداة طابعات العملاء (بلّغ العملاء لما يوصل ستوك على الواتساب)، الطابعات بقت قايمة في صفحة العميل، وزرار البحث اتصلح."
 }
