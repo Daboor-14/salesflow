@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "0.29.2",
-  "apkUrl": "https://github.com/Daboor-14/salesflow/releases/download/v0.29.2/salesflow-0.29.2.apk",
-  "notes": "SalesFlow 0.29.2: احفظ عرض السعر PDF في الفولدر اللي تختاره، اختيار الطابعات من قايمة، صفحة عملاء كل طابعة، وأيقونة البحث اتظبطت."
+  "versionCode": 52,
+  "versionName": "0.30.0",
+  "apkUrl": "https://github.com/Daboor-14/salesflow/releases/download/v0.30.0/salesflow-0.30.0.apk",
+  "notes": "SalesFlow 0.30.0: قايمة أسعار لكل عميل (تختار اللي محتاجه بس)، آخر سعر للعميل في عرض السعر، إعادة الطلب لكل منتج، والواتساب بيفتح شات العميل على طول."
 }
