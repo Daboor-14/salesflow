@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "0.30.2",
-  "apkUrl": "https://github.com/Daboor-14/salesflow/releases/download/v0.30.2/salesflow-0.30.2.apk",
-  "notes": "SalesFlow 0.30.2: إصلاح المزامنة — كانت بتقف عند المنتجات."
+  "versionCode": 55,
+  "versionName": "0.30.3",
+  "apkUrl": "https://github.com/Daboor-14/salesflow/releases/download/v0.30.3/salesflow-0.30.3.apk",
+  "notes": "SalesFlow 0.30.3: البيانات عمرها ما تتمسح من الموبايل (حتى مع تسجيل الخروج)، نسخ تلقائية يومية، المحذوفات الأخيرة، مزامنة كل دقيقة، وتغيير الباسورد."
 }
