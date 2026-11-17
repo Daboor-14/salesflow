@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "0.30.0",
-  "apkUrl": "https://github.com/Daboor-14/salesflow/releases/download/v0.30.0/salesflow-0.30.0.apk",
-  "notes": "SalesFlow 0.30.0: قايمة أسعار لكل عميل (تختار اللي محتاجه بس)، آخر سعر للعميل في عرض السعر، إعادة الطلب لكل منتج، والواتساب بيفتح شات العميل على طول."
+  "versionCode": 53,
+  "versionName": "0.30.1",
+  "apkUrl": "https://github.com/Daboor-14/salesflow/releases/download/v0.30.1/salesflow-0.30.1.apk",
+  "notes": "SalesFlow 0.30.1: المزامنة مع السحابة اشتغلت — سجّل دخول من الإعدادات ← الحساب علشان بياناتك تتحفظ وتظهر على برنامج الكمبيوتر."
 }
